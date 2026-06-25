@@ -64,7 +64,7 @@ make build
 ## Create New Service
 
 ```shell
-kratos new <name> -r https://github.com/go-saas/kit-layout.git
+kratos new <name> -r https://github.com/alexanderevins321/Kit
 ```
 
 
