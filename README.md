@@ -16,25 +16,9 @@ Overview
 
 # Demo 
 
-address http://saas.nihaosaoya.com (Shanghai)
+address http://saas.nihaosaoya.com
 
 - **Host** Username:admin  Password:123456
-
-
-# Feature
-
-* [x] Saas
-* [x] Modularity
-* [x] ACL(Access Control List), RBAC(Role-based Access Control)
-* [x] Localization
-* [x] Microservice/Monolithic compatible
-* [x] Distributed Eventbus: [kafka](https://kafka.apache.org/), [pulsar](https://pulsar.apache.org/)
-* [x] Cache (Redis)
-* [x] Background Job: [asynq](https://github.com/hibiken/asynq)
-* [x] Virtual File System: [vfs](https://github.com/goxiaoy/vfs)
-* [x] Distributed Transaction: [dtm](https://dtm.pub/)
-* [x] OpenId Connect: [ory](https://www.ory.sh/)
-* [x] Logging/Tracing
 
 
 # Modules
@@ -84,6 +68,4 @@ kratos new <name> -r https://github.com/go-saas/kit-layout.git
 ```
 
 
-Frontend Repo: https://github.com/go-saas/kit-frontend  
-Layout Repo( For creating new service): https://github.com/go-saas/kit-layout
 
